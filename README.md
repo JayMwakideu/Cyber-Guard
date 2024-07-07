@@ -36,8 +36,20 @@ cyber threats.
 
 https://cyberguard.jaylansolutions.co.ke/
 
-## License
+## Demo IPs & Credentials
+| Service | Web Interface | Username | Password |
+|---------|---------------|----------|----------|
+| Security Onion | https://<ip> | | |
+| Suricata| https://<ip> | | |
+| Wazuh | https://<ip> | | |
+| OpenSearch | https://<ip> | | |
+| Shuffle | https://<ip> | | |
+| DFIR-IRIS | https://<ip> | | |
+| MISP | https://<ip> | | |
+| MineMeld | https://<IP> | | |
 
+
+## License
 
 | Component | Licensing |
 |-----------|-----------|
