@@ -26,9 +26,9 @@ cyber threats.
 
 ## Quick Installation
 - First, you need to clone the repository:
-- git clone https://github.com/JayMwakideu/Cyber-Guard
+  git clone https://github.com/JayMwakideu/Cyber-Guard
 - Move to the directory and execute the installation script:
-- cd cyber-guard
+  cd cyber-guard
   chmod +x setup.sh
   ./setup.sh
 
