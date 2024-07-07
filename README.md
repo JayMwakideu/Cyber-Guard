@@ -64,7 +64,13 @@ https://cyberguard.jaylansolutions.co.ke/
 
 ## Acknowledgments
 
-I want to express my sincere gratitude to Nusantara and Universitas Indonesia - Japan International Cooperation Agency (UI-JICA Project) for their T-Gaurd development. This development has led to further integration of IDS.
+I want to express my sincere gratitude to Nusantara and Universitas Indonesia - Japan International Cooperation Agency (UI-JICA Project) for their T-Gaurd development. This development has led to further developments of the unified solution.
+
+## Contributors
+- e-Manyatta Community
+- CSTAK
+
+
 
 
 
