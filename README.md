@@ -39,14 +39,14 @@ https://cyberguard.jaylansolutions.co.ke/
 ## Demo IPs & Credentials
 | Service | Web Interface | Username | Password |
 |---------|---------------|----------|----------|
-| Security Onion | https://<ip> | | |
-| Suricata| https://<ip> | | |
-| Wazuh | https://<ip> | | |
-| OpenSearch | https://<ip> | | |
-| Shuffle | https://<ip> | | |
-| DFIR-IRIS | https://<ip> | | |
-| MISP | https://<ip> | | |
-| MineMeld | https://<IP> | | |
+| Security Onion | https://<ip> | demo | MySuperDemo@2024! |
+| Suricata| https://<ip> | demo | MySuperDemo@2024! |
+| Wazuh | https://<ip> | demo | MySuperDemo@2024! |
+| OpenSearch | https://<ip> | demo | MySuperDemo@2024! |
+| Shuffle | http://<ip>:3001 | demo | MySuperDemo@2024! |
+| DFIR-IRIS | https://<ip>:8443 | demo | MySuperDemo@2024! |
+| MISP | https://<ip>:1443 | demo | MySuperDemo@2024! |
+| MineMeld | https://<IP> | demo | MySuperDemo@2024! |
 
 
 ## License
