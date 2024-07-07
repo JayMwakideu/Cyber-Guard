@@ -62,6 +62,12 @@ https://cyberguard.jaylansolutions.co.ke/
 | MISP | GNU Affero General Public License v3.0 | 
 | MineMeld | GNU Affero General Public License v3.0 & Apache 2.0 license| 
 
+
+## Support Me
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+
 ## Acknowledgments
 
 I want to express my sincere gratitude to Nusantara and Universitas Indonesia - Japan International Cooperation Agency (UI-JICA Project) for their T-Gaurd development. This development has led to further developments of the unified solution.
